@@ -1,2 +1,2 @@
 # React-QuizComponent
- PluralSigh React project
+ Pluralsight React project
